@@ -1,0 +1,15 @@
+{
+  "name": "halo_api_relay",
+  "version": "1.0.0",
+  "description": "Halo API Relay App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Sidman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
